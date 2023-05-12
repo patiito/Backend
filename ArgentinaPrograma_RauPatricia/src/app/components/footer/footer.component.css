@@ -2,10 +2,10 @@
     background-color: #74ddd8;
 }
 footer{
-    color: #fefefe;
+    color: #bce782;
     font-size: 14px;
     display: flex;
     flex-direction: column;
     text-align: center;
-    box-shadow: 2px -2px 5px #999;
+    box-shadow: 5px -5px 5px #999;
 }
